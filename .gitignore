@@ -1,0 +1,13 @@
+
+.env
+.venv/
+venv/
+venv312/
+__pycache__/
+*.pyc
+data/aji_tstaji.db
+data/utilisateurs.json
+data/reports/documents_candidat/
+data/reports/cv_genere/
+data/raw/~$*.xlsx
+data/cleaned/~$*.xlsx
